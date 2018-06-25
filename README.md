@@ -24,3 +24,4 @@ BSc. Software Engineering, Shandong University, Jinan, 09.2008 - 06.2012
 
 <i>under construction</i>
 
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=HUBOcc7ePauNo7yMxjhJ86paI_4GjTmqppxrnh0eMwg&cl=ffffff&w=a"></script>

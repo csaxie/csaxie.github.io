@@ -1,6 +1,7 @@
 # An Xie
+csaxie at gmail dot com
 
-<h1>PERSONAL DETAILS</h1>
+##About
 
 <b>Birth</b> Feb 22, 1991
 
@@ -22,6 +23,8 @@ MA.Eng. Computer Technology, Nanjing University, Nanjing, 09.2012 - 06.2015
 
 BSc. Software Engineering, Shandong University, Jinan, 09.2008 - 06.2012
 
-<i>under construction</i>
+## Publications
+An Xie, Xiaoliang Wang, Wei Wang, Sanglu Lu, Designing a disaster-resilient network with software defined networking, 2014 IEEE 22nd International Symposium of Quality of Service (IWQoS)
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?d=HUBOcc7ePauNo7yMxjhJ86paI_4GjTmqppxrnh0eMwg&cl=ffffff&w=a"></script>
+An Xie, Xiao Zhang, Xiaoliang Wang, Zhuzhong Qian, Sanglu Lu, Ambula: Build Communication Lifeline of Corporations During Emergency, 2017 IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)
+

@@ -24,6 +24,8 @@ Phone (+86) 18205188206
 
 
 ## Publications
+An Xie, Xiaoliang Wang, Sanglu Lu, Risk Minimization Routing Against Geographically Correlated Failures, IEEE Access 2019
+
 An Xie, Xiao Zhang, Xiaoliang Wang, Zhuzhong Qian, Sanglu Lu, Ambula: Build Communication Lifeline of Corporations During Emergency, 2017 IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)
 
 An Xie, Xiaoliang Wang, Wei Wang, Sanglu Lu, Designing a disaster-resilient network with software defined networking, 2014 IEEE 22nd International Symposium of Quality of Service (IWQoS)

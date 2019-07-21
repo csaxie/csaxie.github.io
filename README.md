@@ -26,11 +26,11 @@ Phone (+86) 18205188206
 ## Publications
 An Xie, Huawei Huang, Xiaoliang Wang, Song Guo, Zhuzhong Qian and Sanglu Lu, Dual: Deploy Stateful Virtual Network Function Chains by Jointly Allocating Data-Control Traffic, Computer Networks 2019
 
-An Xie, Xiaoliang Wang, Sanglu Lu, Risk Minimization Routing Against Geographically Correlated Failures, IEEE Access 2019
+An Xie, Xiaoliang Wang, Sanglu Lu, [Risk Minimization Routing Against Geographically Correlated Failures](https://ieeexplore.ieee.org/abstract/document/8713864), IEEE Access 2019
 
-An Xie, Xiao Zhang, Xiaoliang Wang, Zhuzhong Qian, Sanglu Lu, Ambula: Build Communication Lifeline of Corporations During Emergency, 2017 IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)
+An Xie, Xiao Zhang, Xiaoliang Wang, Zhuzhong Qian, Sanglu Lu, [Ambula: Build Communication Lifeline of Corporations During Emergency](https://ieeexplore.ieee.org/document/8368392), 2017 IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)
 
-An Xie, Xiaoliang Wang, Wei Wang, Sanglu Lu, Designing a disaster-resilient network with software defined networking, 2014 IEEE 22nd International Symposium of Quality of Service (IWQoS)
+An Xie, Xiaoliang Wang, Wei Wang, Sanglu Lu, [Designing a disaster-resilient network with software defined networking](https://ieeexplore.ieee.org/document/6914312), 2014 IEEE 22nd International Symposium of Quality of Service (IWQoS)
 
 
 

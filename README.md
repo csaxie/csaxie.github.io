@@ -24,7 +24,7 @@ Phone (+86) 18205188206
 
 
 ## Publications
-An Xie, Huawei Huang, Xiaoliang Wang, Song Guo, Zhuzhong Qian and Sanglu Lu, Dual: Deploy Stateful Virtual Network Function Chains by Jointly Allocating Data-Control Traffic, Computer Networks 2019
+An Xie, Huawei Huang, Xiaoliang Wang, Song Guo, Zhuzhong Qian and Sanglu Lu, [Dual: Deploy Stateful Virtual Network Function Chains by Jointly Allocating Data-Control Traffic](https://doi.org/10.1016/j.comnet.2019.106868), Computer Networks 2019
 
 An Xie, Xiaoliang Wang, Sanglu Lu, [Risk Minimization Routing Against Geographically Correlated Failures](https://ieeexplore.ieee.org/abstract/document/8713864), IEEE Access 2019
 

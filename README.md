@@ -32,5 +32,8 @@ An Xie, Xiao Zhang, Xiaoliang Wang, Zhuzhong Qian, Sanglu Lu, [Ambula: Build Com
 
 An Xie, Xiaoliang Wang, Wei Wang, Sanglu Lu, [Designing a disaster-resilient network with software defined networking](https://ieeexplore.ieee.org/document/6914312), 2014 IEEE 22nd International Symposium of Quality of Service (IWQoS)
 
+## Book chapeters
+Xie A., Wang X. (2019) [Data-Driven Network Control](https://link.springer.com/content/pdf/10.1007%2F978-3-319-32903-1_90-1.pdf). In: Shen X., Lin X., Zhang K. (eds) Encyclopedia of Wireless Networks. Springer, Cham
+
 
 

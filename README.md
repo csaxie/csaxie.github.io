@@ -37,5 +37,6 @@ Xie A., Wang X. (2019) [Data-Driven Network Control](https://link.springer.com/c
 
 ## Patents
 王晓亮, 谢安, 陆桑璐, 一种基于软件定义网络技术的网络容灾恢复系统及方法, 2018
+
 王晓亮, 谢安, 姜晓鸿, 基于光纤延时线的FIFO共享缓存队列, 2013
 

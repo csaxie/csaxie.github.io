@@ -1,9 +1,7 @@
 # An Xie
 csaxie at gmail dot com
 
-## About
-
-_Education_
+## Bio
 
 Ph.D. Computer Science and Technology, Nanjing University, Nanjing, 09.2015 - now
 
@@ -11,7 +9,7 @@ MA.Eng. Computer Technology, Nanjing University, Nanjing, 09.2012 - 06.2015
 
 BSc. Software Engineering, Shandong University, Jinan, 09.2008 - 06.2012
 
-_Address_ 
+## Contact
 
 Room 611, Department of Computer Science & Technology
 
@@ -20,8 +18,6 @@ Xianlin Campus of Nanjing University
 163 Xianlin Road, Nanjing 210046, China
 
 Phone (+86) 18205188206
-
-
 
 ## Publications
 An Xie, Huawei Huang, Xiaoliang Wang, Song Guo, Zhuzhong Qian and Sanglu Lu, [Dual: Deploy Stateful Virtual Network Function Chains by Jointly Allocating Data-Control Traffic](https://doi.org/10.1016/j.comnet.2019.106868), Computer Networks 2019

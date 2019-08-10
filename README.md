@@ -9,16 +9,6 @@ MA.Eng. Computer Technology, Nanjing University, Nanjing, 09.2012 - 06.2015
 
 BSc. Software Engineering, Shandong University, Jinan, 09.2008 - 06.2012
 
-## Contact
-
-Room 611, Department of Computer Science & Technology
-
-Xianlin Campus of Nanjing University
-
-163 Xianlin Road, Nanjing 210046, China
-
-Phone (+86) 18205188206
-
 ## Publications
 An Xie, Huawei Huang, Xiaoliang Wang, Song Guo, Zhuzhong Qian and Sanglu Lu, [Dual: Deploy Stateful Virtual Network Function Chains by Jointly Allocating Data-Control Traffic](https://doi.org/10.1016/j.comnet.2019.106868), Computer Networks 2019
 
@@ -36,3 +26,10 @@ Xie A., Wang X. (2019) [Data-Driven Network Control](https://link.springer.com/c
 
 王晓亮, 谢安, 姜晓鸿, 基于光纤延时线的FIFO共享缓存队列, 2013
 
+## Contact
+
+Room 611, Department of Computer Science & Technology
+
+Xianlin Campus of Nanjing University, 163 Xianlin Road, Nanjing 210046, China
+
+Phone (+86) 18205188206

@@ -16,6 +16,8 @@ An Xie, Xiaoliang Wang, Sanglu Lu, [Risk Minimization Routing Against Geographic
 
 An Xie, Xiao Zhang, Xiaoliang Wang, Zhuzhong Qian, Sanglu Lu, [Ambula: Build Communication Lifeline of Corporations During Emergency](https://ieeexplore.ieee.org/document/8368392), 2017 IEEE 23rd International Conference on Parallel and Distributed Systems (ICPADS)
 
+An Xie, Xiaoliang Wang, Guido Maier, Sanglu Lu, [Designing a Disaster-resilient Network with Software Defined Networking](https://arxiv.org/abs/1602.06686),  arXiv preprint arXiv:1602.06686 (2016).
+
 An Xie, Xiaoliang Wang, Wei Wang, Sanglu Lu, [Designing a disaster-resilient network with software defined networking](https://ieeexplore.ieee.org/document/6914312), 2014 IEEE 22nd International Symposium of Quality of Service (IWQoS)
 
 ## Book chapters

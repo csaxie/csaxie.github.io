@@ -22,7 +22,7 @@ An Xie, Xiaoliang Wang, Guido Maier, Sanglu Lu, [Designing a Disaster-resilient 
 An Xie, Xiaoliang Wang, Wei Wang, Sanglu Lu, [Designing a disaster-resilient network with software defined networking](https://ieeexplore.ieee.org/document/6914312), 2014 IEEE 22nd International Symposium of Quality of Service (IWQoS)
 
 ## Book chapters
-Xie A., Wang X. (2019) [Data-Driven Network Control](https://link.springer.com/content/pdf/10.1007%2F978-3-319-32903-1_90-1.pdf). In: Shen X., Lin X., Zhang K. (eds) Encyclopedia of Wireless Networks. Springer, Cham
+An Xie, Xiaoliang Wang, (2019) [Data-Driven Network Control](https://link.springer.com/content/pdf/10.1007%2F978-3-319-32903-1_90-1.pdf). In: Shen X., Lin X., Zhang K. (eds) Encyclopedia of Wireless Networks. Springer, Cham
 
 ## Patents
 王晓亮, 谢安, 陆桑璐, 一种基于软件定义网络技术的网络容灾恢复系统及方法, 2018

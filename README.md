@@ -1,7 +1,7 @@
 # An Xie
 csaxie at gmail dot com
 
-## Bio
+## Education
 
 Ph.D. Computer Science and Technology, Nanjing University, Nanjing, 09.2015 - 03.2020
 
@@ -31,7 +31,7 @@ An Xie, Xiaoliang Wang, (2019) [Data-Driven Network Control](https://link.spring
 
 王晓亮, 谢安, 姜晓鸿, 基于光纤延时线的FIFO共享缓存队列, 2013
 
-## Contact
+## Affiliation
 
 Room 611, Department of Computer Science & Technology
 

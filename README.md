@@ -11,7 +11,7 @@ BSc. Software Engineering, Shandong University, Jinan, 09.2008 - 06.2012
 
 ## Publications
 
-An Xie, Huawei Huang, Xiaoliang Wang, Zhuzhong Qian and Sanglu Lu, Online VNF Chain Deployment on Resource-limited Edges by Exploiting Peer Edge Devices, Elsevier Computer Networks 2019 [CCF-B]
+An Xie, Huawei Huang, Xiaoliang Wang, Zhuzhong Qian and Sanglu Lu, Online VNF Chain Deployment on Resource-limited Edges by Exploiting Peer Edge Devices(https://doi.org/10.1016/j.comnet.2019.107069), Elsevier Computer Networks 2019 [CCF-B]
 
 An Xie, Huawei Huang, Xiaoliang Wang, Song Guo, Zhuzhong Qian and Sanglu Lu, [Dual: Deploy Stateful Virtual Network Function Chains by Jointly Allocating Data-Control Traffic](https://doi.org/10.1016/j.comnet.2019.106868), Elsevier Computer Networks 2019 [CCF-B]
 

@@ -1,6 +1,3 @@
-README
-===========================
-
 # An Xie
 
 csaxie at gmail dot com

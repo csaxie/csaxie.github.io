@@ -12,7 +12,7 @@ BSc. Software Engineering, Shandong University, Jinan, 09.2008 - 06.2012
 
 ## Publications
 
-An Xie, Huawei Huang, Xiaoliang Wang, Zhuzhong Qian and Sanglu Lu, RouteStitch: Control Traffic Minimization in SDN by Stitching Routes, IEEE ICC 2020
+An Xie, Huawei Huang, Xiaoliang Wang, Zhuzhong Qian and Sanglu Lu, RouteStitch: Control Traffic Minimization in SDN by Stitching Routes, IEEE ICC 2020 [CCF-C]
 
 An Xie, Huawei Huang, Xiaoliang Wang, Zhuzhong Qian and Sanglu Lu, [Online VNF Chain Deployment on Resource-limited Edges by Exploiting Peer Edge Devices](https://doi.org/10.1016/j.comnet.2019.107069), Elsevier Computer Networks 2019 [CCF-B]
 

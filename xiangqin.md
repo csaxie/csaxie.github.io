@@ -1,7 +1,7 @@
 # Dr. An Xie
 
 
-![image](https://github.com/csaxie/csaxie.github.io/blob/master/images/2020-07-03.JPG)
+![image](https://github.com/csaxie/csaxie.github.io/blob/master/images/2020-07-03.JPG){:height="100px" width="400px"}
 
 csaxie at gmail dot com
 

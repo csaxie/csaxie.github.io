@@ -39,5 +39,7 @@ An Xie, Xiaoliang Wang, (2019) [Data-Driven Network Control](https://link.spring
 Room 611, Department of Computer Science & Technology
 
 Xianlin Campus of Nanjing University, 163 Xianlin Road, Nanjing 210046, China 
-$\downarrow$
+
+$$\downarrow$$
+
 101 Software Avenue Yuhuatai District Nanjing, Huawei Technologies Co., Ltd, 210012 China

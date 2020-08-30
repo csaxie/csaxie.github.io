@@ -35,11 +35,9 @@ An Xie, Xiaoliang Wang, (2019) [Data-Driven Network Control](https://link.spring
 王晓亮, 谢安, 姜晓鸿, 基于光纤延时线的FIFO共享缓存队列, 2013
 
 ## Affiliation
-
+<!--
 Room 611, Department of Computer Science & Technology
-
 Xianlin Campus of Nanjing University, 163 Xianlin Road, Nanjing 210046, China 
-
-$$\downarrow$$
+-->
 
 Huawei Technologies Co., Ltd, 101 Software Avenue Yuhuatai District, Nanjing 210012, China
